@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chowiya</h1>
-<h3 align="center">LEARNING FULL STACK DEVELOPMENT -MERN</h3>
+<h3 align="center">FULL STACK DEVELOPMENT -MERN</h3>
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
+- 🌱 I’m a **FULL STACK DEVELOPMENT**
 
-- 💬 Ask me about **HTML,CSS,JAVA SCRIPT**
+- 💬 Ask me about **HTML,CSS,JAVA SCRIPT,REACT JS, NODE JS,MYSQL, MONGODB,**
 
 - 📫 How to reach me **nd1553410@gmail.com**
 
