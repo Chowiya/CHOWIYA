@@ -15,7 +15,7 @@
 
 💬 **Ask me about:** Anything related to **MERN Stack, JavaScript, REST APIs, and Web Development**  
 📫 **How to reach me:** nd1553410@gmail.com  
-🚀 **Portfolio:** https://chowiyasportfolio.netlify.app/  
+  
 
 
 ---
